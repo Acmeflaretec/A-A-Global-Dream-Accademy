@@ -17,8 +17,11 @@ body {
   line-height: 1.7;
   color: #828282;
   background: #fff;
+  
 }
-
+p{
+text-align: justify;
+}
 #page {
   position: relative;
   overflow-x: hidden;
